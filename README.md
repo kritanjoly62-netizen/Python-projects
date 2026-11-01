@@ -1,2 +1,0 @@
-# Python-projects
-Calculator.py
